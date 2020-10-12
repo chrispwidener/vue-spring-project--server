@@ -1,0 +1,6 @@
+com/example/accessingmongodbdatarest/Person.java
+ com.example.accessingmongodbdatarest.Person
+com/example/accessingmongodbdatarest/AccessingMongodbDataRestApplication.java
+ com.example.accessingmongodbdatarest.AccessingMongodbDataRestApplication
+com/example/accessingmongodbdatarest/PersonRepository.java
+ com.example.accessingmongodbdatarest.PersonRepository
