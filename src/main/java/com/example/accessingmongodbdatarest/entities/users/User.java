@@ -1,8 +1,9 @@
-package com.example.accessingmongodbdatarest.entities;
+package com.example.accessingmongodbdatarest.entities.users;
 
+import net.minidev.json.annotate.JsonIgnore;
 import org.springframework.data.annotation.Id;
 
-public class Person {
+public class User {
 
     @Id private String id;
 
@@ -23,5 +24,11 @@ public class Person {
 
     public void setLastName(String lastName) {
         this.lastName = lastName;
+    }
+
+    @JsonIgnore
+    public String getFullName() {
+        String fullName = this.firstName + " " + this.lastName;
+        return fullName;
     }
 }

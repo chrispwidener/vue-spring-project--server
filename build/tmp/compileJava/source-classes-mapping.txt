@@ -1,0 +1,8 @@
+com/example/accessingmongodbdatarest/AccessingMongodbDataRestApplication.java
+ com.example.accessingmongodbdatarest.AccessingMongodbDataRestApplication
+com/example/accessingmongodbdatarest/entities/users/UserRepository.java
+ com.example.accessingmongodbdatarest.entities.users.UserRepository
+com/example/accessingmongodbdatarest/entities/users/User.java
+ com.example.accessingmongodbdatarest.entities.users.User
+com/example/accessingmongodbdatarest/entities/users/FullNameProjection.java
+ com.example.accessingmongodbdatarest.entities.users.FullNameProjection
