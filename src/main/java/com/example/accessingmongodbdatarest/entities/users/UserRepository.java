@@ -1,4 +1,4 @@
-package com.example.accessingmongodbdatarest;
+package com.example.accessingmongodbdatarest.entities;
 
 import java.util.List;
 

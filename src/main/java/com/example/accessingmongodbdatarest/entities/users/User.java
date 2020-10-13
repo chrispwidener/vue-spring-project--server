@@ -1,4 +1,4 @@
-package com.example.accessingmongodbdatarest;
+package com.example.accessingmongodbdatarest.entities;
 
 import org.springframework.data.annotation.Id;
 
